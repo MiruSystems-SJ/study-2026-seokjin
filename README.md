@@ -1,1 +1,1 @@
-# study-2026-seokjin
+# 2026 summer ros2 platform study log
